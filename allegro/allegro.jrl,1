@@ -1,0 +1,38 @@
+\t (00:00:07) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Thu Aug 01 10:20:56 2019
+\t (00:00:07)         Host=USER-PC User=user Pid=6500 CPUs=4
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\WORKSPACE\OSCILLATOR\allegro\OSCILLATOR.brd
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:10) Design opened: C:/USERS/USER/DESKTOP/WORKSPACE/OSCILLATOR/allegro/OSCILLATOR.brd
+\i (00:00:11) trapsize 1716
+\i (00:00:11) trapsize 1756
+\i (00:00:11) trapsize 2852
+\i (00:00:11) trapsize 2729
+\i (00:00:12) trapsize 28074
+\i (00:00:12) generaledit 
+\i (00:00:37) xhilite 
+\i (00:00:37) xrefdes U6 
+\t (00:00:37) Can not select unplaced component U6.
+\t (00:00:37) Can not select unplaced component U6.
+\i (00:00:37) xname_flush 
+\i (00:00:38) done 
+\i (00:00:38) generaledit 
+\i (00:01:08) xdehilite 
+\i (00:01:08) xrefdes U6 
+\t (00:01:08) Can not select unplaced component U6.
+\t (00:01:08) Can not select unplaced component U6.
+\i (00:01:08) xname_flush 
+\i (00:01:08) done 
+\i (00:01:08) xhilite 
+\i (00:01:08) xrefdes U5 
+\t (00:01:08) Can not select unplaced component U5.
+\t (00:01:08) Can not select unplaced component U5.
+\i (00:01:08) xname_flush 
+\i (00:01:08) done 
+\i (00:01:08) generaledit 
+\i (00:01:37) exit 
+\e (00:01:37) Do you want to save the changes you made to OSCILLATOR.brd?
+\i (00:01:38) fillin yes 
+\t (00:01:38)     Journal end - Thu Aug 01 10:22:27 2019
